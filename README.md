@@ -5,6 +5,9 @@
 frontend: HTML, CSS, React
 backend: Node.js, Express + Firebase Realtime Database
 
+<img width="1548" alt="image" src="https://user-images.githubusercontent.com/73246237/218320062-5fb31dfa-a56c-4663-ae03-4b4a42f26af9.png">
+
+
 ## Общее описание
 
 Сервер локальный, поэтому для работы приложения сначала необходимо запустить сервер (см. server/README.md).
