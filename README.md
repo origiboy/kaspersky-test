@@ -2,7 +2,7 @@
 
 ## Стек
 
-frontend: HTML, CSS, React
+frontend: HTML, CSS, React <br>
 backend: Node.js, Express + Firebase Realtime Database
 
 <img width="1548" alt="image" src="https://user-images.githubusercontent.com/73246237/218320062-5fb31dfa-a56c-4663-ae03-4b4a42f26af9.png">
