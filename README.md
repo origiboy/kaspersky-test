@@ -12,6 +12,17 @@ backend: Node.js, Express + Firebase Realtime Database
 
 Сервер локальный, поэтому для работы приложения сначала необходимо запустить сервер (см. server/README.md).
 Для запуска приложения см. client/README.md.
+Для работы сервера необходимо создать файл server/.env с переменной FIREBASE_CONFIG
+FIREBASE_CONFIG={
+  "apiKey": "",
+  "authDomain": "",
+  "databaseURL": "",
+  "projectId": "",
+  "storageBucket": "",
+  "messagingSenderId": "",
+  "appId": "",
+  "measurementId": ""
+}
 
 ## Небольшой отчёт по проделанной работе
 
